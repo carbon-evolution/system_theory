@@ -36,6 +36,8 @@ System theory studies how different parts of a system interact and influence eac
    - Demonstrates diffusion of competition
    - Visualizes territory/market share dynamics
 
+![image](https://github.com/user-attachments/assets/d6f3cc9e-eb7b-4687-9afc-0c6d01ad78ab)
+
 ### Interactive Controls
 
 #### Population Parameters
